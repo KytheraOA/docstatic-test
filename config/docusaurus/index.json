@@ -1,25 +1,8 @@
 {
   "label": "Settings",
-  "logo": {
-    "alt": "docStatic",
-    "src": "/img/docstatic.png"
-  },
-  "title": "docStatic",
-  "tagline": "Modern Documentation Solution",
-  "url": "https://docstatic.com/",
-  "languages": {
-    "supported": [
-      {
-        "code": "en",
-        "label": "English"
-      },
-      {
-        "code": "fr",
-        "label": "Français"
-      }
-    ],
-    "default": "en"
-  },
+  "title": "Anevern",
+  "tagline": "Fantasy art and more by Kythera of Anevern",
+  "url": "https://www.anevern.com",
   "navbar": [
     {
       "label": "Docs",
@@ -147,5 +130,22 @@
       }
     ],
     "copyright": "Source Solutions, Inc. Built with docStatic."
+  },
+  "languages": {
+    "supported": [
+      {
+        "code": "en",
+        "label": "English"
+      },
+      {
+        "code": "fr",
+        "label": "Français"
+      }
+    ],
+    "default": "en"
+  },
+  "logo": {
+    "alt": "docStatic",
+    "src": "/img/docstatic.png"
   }
 }
